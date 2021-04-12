@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Cerberus0013/zooKeeperApp/issues"
   },
-  "homepage": "https://github.com/Cerberus0013/zooKeeperApp#readme"
+  "homepage": "https://github.com/Cerberus0013/zooKeeperApp#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
