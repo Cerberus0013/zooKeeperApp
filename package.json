@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Cerberus0013/zooKeeperApp#readme",
   "dependencies": {
+    "cjs": "0.0.11",
+    "express": "^4.17.1",
+    "loader": "^2.1.1",
     "nodemon": "^2.0.7"
   }
 }
